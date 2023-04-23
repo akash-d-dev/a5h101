@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning JavaScript and c++
+- 🌱 I’m currently learning the MERN stack, C++, JAVA
 - 📫 Reach me on instagram - @aka5hhere
 
 <!---
